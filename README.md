@@ -69,8 +69,10 @@ Want to make some tweaks or play offline? Here’s how:
 - More characters to choose from!
 - Bonus power-ups to collect.
 - Different levels with increasing difficulty.
-- Audio Play
-- High Score Holder and Updater
+- Audio Play option for background and keys pressed.
+- High Score Holder and Updater.
+- Android and IoS builds for the game in later stages of development.
+- More interactiveness using Animations between different Scenes.
 ---
 
 ## 💡 Credits
