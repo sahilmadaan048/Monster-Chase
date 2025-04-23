@@ -15,6 +15,15 @@ If this is the Scene you see first, press the Main Menu button on the upper left
 (*Bug! Hopefully will be removed in a few days*)
 ![image](https://github.com/user-attachments/assets/65e05f61-8390-4e59-84e0-54f77e2a5cb2)
 
+---
+
+## 🎥 Demo Video
+
+Watch a demo of the raycasting engine in action:
+
+[![Watch the demo](https://img.youtube.com/vi/D_w1IYaoVLA/0.jpg)](https://www.youtube.com/watch?v=D_w1IYaoVLA)
+
+---
 
 ---
 
